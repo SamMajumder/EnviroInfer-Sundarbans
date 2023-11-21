@@ -17,6 +17,10 @@ Copernicus Climate Change Service (C3S) (2017): ERA5: Fifth generation of ECMWF 
 
 J. A. Cummings and O. M. Smedstad. 2013: Variational Data Assimilation for the Global Ocean. Data Assimilation for Atmospheric, Oceanic and Hydrologic Applications vol II, chapter 13, 303-343.
 
+### HYCOM/sea_temp_salinity:
+
+J. A. Cummings and O. M. Smedstad. 2013: Variational Data Assimilation for the Global Ocean. Data Assimilation for Atmospheric, Oceanic and Hydrologic Applications vol II, chapter 13, 303-343.
+
 ## Machine Learning Approach
 
 ## Results
